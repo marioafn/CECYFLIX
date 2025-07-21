@@ -1,4 +1,4 @@
-import './Peliculas.css';
+/*import './Peliculas.css';*/
 
 const express = require('express');
 const router = express.Router();
